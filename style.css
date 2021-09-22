@@ -1,0 +1,85 @@
+* {
+    margin: 0;
+}
+
+body {
+    background: linear-gradient(45deg, limegreen, coral, limegreen);
+    height: 1000%;
+}
+
+#header {
+    background-color: black;
+    height: 70px;
+}
+
+#logo {
+    text-align: center;
+    width: 40%;
+    color: red;
+    line-height: 70px;
+    float: left;
+}
+
+a {
+    color: cornsilk;
+    text-decoration: none;
+    margin-right: 25px;
+}
+
+#menu-bar {
+    text-align: center;
+    float: right;
+    width: 60%;
+    line-height: 70px;
+}
+
+#title {
+    text-align: center;
+    margin-right: 50px;
+}
+
+#marvel {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+#kar {
+    background: linear-gradient(45deg, darkred, black);
+    width: 50%;
+    color: white;
+    padding: 10px;
+    border-radius: 50%;
+    margin: 10px auto;
+}
+
+#dr {
+    background: linear-gradient(45deg, darkred, black);
+    width: 50%;
+    color: white;
+    padding: 10px;
+    border-radius: 50%;
+    margin: 10px auto;
+    text-align: center;
+}
+
+table {
+    width: 100%;
+    margin-top: 15px;
+}
+
+img {
+    border-radius: 20px;
+}
+
+#footer {
+    text-align: center;
+    background: black;
+    margin-top: 30px;
+    padding: 20px;
+}
+
+#icon {
+    width: 20px;
+    height: 5px;
+}
